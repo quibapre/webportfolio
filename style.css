@@ -1,0 +1,46 @@
+/* Custom Fonts */
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.font-dancing-script {
+	font-family: 'Dancing Script', cursive;
+	font-size: 3rem;
+}
+/* Custom Nav Pills */
+.nav-pills .nav-link {
+	color: #ffc107;
+}
+.nav-pills .nav-link.active {
+    background-color: #ffc107;
+}
+/* Header */
+#headerCarousel {
+	margin-top: 56px;
+}
+/* Contact Icons */
+.contact-icon {
+	width: 60px;
+	height: 60px;
+}
+.contact-icon-link {
+	width: 40px;
+	height: 40px;
+}
+.contact-icon-link:hover {
+	border-color: #ffc107 !important;
+	background-color: #ffc107;
+	color: #fff !important;
+}
+/* Footer */
+.footer-overlay {
+	background-color: #343a40;
+	opacity: 0.9;
+}
+/* Custom Width */
+.w-90 {
+	width: 90%;
+}
+/* Form */
+form textarea {
+	resize: none;
+}
